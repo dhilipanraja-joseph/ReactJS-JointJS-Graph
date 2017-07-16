@@ -1,4 +1,4 @@
-# ReactJS - JointJS Graph Creater App
+# ReactJS - JointJS FlowChart Creater App
 
 Includes:
 
